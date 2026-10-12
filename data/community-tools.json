@@ -2,7 +2,10 @@
   {
     "name": "Stock Expert AI",
     "url": "https://www.stockexpertai.com",
-    "categories": ["Research and Valuation"],
-    "summary": "Scores US-listed stocks from 0 to 100 by ranking each metric inside the company own sector across five pillars, so scores stay comparable between sectors. Figures are rendered verbatim from market data providers and each score carries a calculation date."
+    "categories": [
+      "AI Research",
+      "Scores"
+    ],
+    "summary": "Public US-stock research pages with dated AI-written analysis and sector-relative company scores where available. Free accounts add AI tools with daily limits; scores are research inputs, not return forecasts."
   }
 ]
